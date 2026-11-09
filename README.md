@@ -5,25 +5,25 @@ This project analyzes bakery sales data to evaluate revenue, profitability, prod
 The objective is to transform raw sales data into actionable business insights that support better production planning, inventory management and business decision-making.
 
 ## Dataset Description
-Source: Kaggle
-Records: 19,320 rows
-Columns: 40
-Industry: Bakery / Food and Beverage
-Currency: US Dollars($)
-Dataset period: To be confirmed
+- Source: Kaggle
+- Records: 19,320 rows
+- Columns: 40
+- Industry: Bakery / Food and Beverage
+- Currency: US Dollars($)
+## Dataset period: 2023-2024
 ## Tools and Technologies
-Microsoft Excel: Initial data inspection.
-Python: Data cleaning and exploratory data analysis.
-MySQL: Data querying and business analysis.
-Power BI: Interactive dashboard development.
+- Microsoft Excel: Initial data inspection.
+- Python: Data cleaning and exploratory data analysis.
+- MySQL: Data querying and business analysis.
+- Power BI: Interactive dashboard development.
 ## Business Objectives
-Evaluate total revenue and profitability.
-Identify the best-performing sales days.
-Analyze revenue by product and category.
-Compare seasonal production with units sold.
-Examine revenue by payment method.
-Investigate unsold inventory across weather conditions.
-Analyze festival-related sales patterns.
+- Evaluate total revenue and profitability.
+- Identify the best-performing sales days.
+- Analyze revenue by product and category.
+- Compare seasonal production with units sold.
+- Examine revenue by payment method.
+- Investigate unsold inventory across weather conditions.
+- Analyze festival-related sales patterns.
 ## Key Performance Indicators
 The dashboard currently displays:
 
@@ -57,20 +57,21 @@ Developed an interactive Power BI dashboard to communicate key performance indic
 ## Dashboard
 The dashboard explores:
 
-Revenue by payment method.
-Units sold versus units produced by season.
-Revenue by weekday.
-Total revenue by season.
-Revenue by product category.
-Unsold inventory by weather condition.
+- Revenue by payment method.
+- Units sold versus units produced by season.
+- Revenue by weekday.
+- Total revenue by season.
+- Revenue by product category.
+- Unsold inventory by weather condition.
 ## Expected Business Recommendations
 The analysis aims to identify opportunities to:
 
-Improve production planning.
-Reduce unsold inventory and product waste.
-Identify high-performing products.
-Optimize seasonal sales strategies.
-Improve revenue and profitability.
+- Improve production planning.
+- Reduce unsold inventory and product waste.
+- Identify high-performing products.
+- Optimize seasonal sales strategies.
+- Improve revenue and profitability.
+
 ## Project Status
 ☑ Data cleaning and preparation
 ☑ Exploratory data analysis
